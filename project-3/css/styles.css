@@ -16,14 +16,12 @@ hr{
     margin-bottom: 10px;
 }
 
-.session{
+.sub-title{
     color: #7d97ad;
     font-weight: 400;
+    margin-left: 10px;
 }
 .text-thin{
     font-weight: 300;
     font-size: 60px;
-}
-.session{
-    margin-left: 5px;
 }
