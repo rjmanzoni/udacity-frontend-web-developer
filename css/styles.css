@@ -1,27 +1,33 @@
-body{
+body {
     font-family: 'Quicksand', sans-serif;
     color: #2d3c49;
     font-weight: 400;
 }
 
-hr{
-    width: 100%; color: #7d97ad; height: 3px; background-color:#7d97ad;
+hr {
+    width: 100%;
+    color: #7d97ad;
+    height: 3px;
+    background-color:#7d97ad;
 }
-.logo{
+
+.logo {
     width: 15%;
     margin-top: 30px;
 }
-.main-image{
+
+.main-image {
     margin-top: 10px;
     margin-bottom: 10px;
 }
 
-.sub-title{
+.sub-title {
     color: #7d97ad;
     font-weight: 400;
     margin-left: 10px;
 }
-.text-thin{
+
+.text-thin {
     font-weight: 300;
     font-size: 60px;
 }
